@@ -1,0 +1,2 @@
+# OasisDeclaration
+オアシス宣言
